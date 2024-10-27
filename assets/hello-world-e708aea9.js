@@ -1,4 +1,4 @@
-import{d as e,o as l,c as n,E as i,a as s,k as a}from"./app-b08b7487.js";const p={class:"markdown-body"},m=i(`<h1>Hello World! This is yori-vue! 🎉🎉🎉</h1><p>Adopted the GitHub Markdown style.</p><p>采用 github 的 markdown 样式。</p><pre><code class="language-c"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;stdio.h&gt;</span></span>
+import{d as e,o as l,c as n,E as i,a as s,k as a}from"./app-45100b93.js";const p={class:"markdown-body"},m=i(`<h1>Hello World! This is yori-vue! 🎉🎉🎉</h1><p>Adopted the GitHub Markdown style.</p><p>采用 github 的 markdown 样式。</p><pre><code class="language-c"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;stdio.h&gt;</span></span>
 
 <span class="hljs-type">int</span> <span class="hljs-title function_">main</span><span class="hljs-params">()</span> {
   <span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;Hello World!\\n&quot;</span>);
